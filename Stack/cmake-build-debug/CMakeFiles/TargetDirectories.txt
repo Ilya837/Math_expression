@@ -1,0 +1,3 @@
+C:/Users/Mikerin_Ilya/source/repos/Stack/Stack/cmake-build-debug/CMakeFiles/Stack.dir
+C:/Users/Mikerin_Ilya/source/repos/Stack/Stack/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Mikerin_Ilya/source/repos/Stack/Stack/cmake-build-debug/CMakeFiles/rebuild_cache.dir
